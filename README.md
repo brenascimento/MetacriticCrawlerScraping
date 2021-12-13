@@ -17,11 +17,11 @@ PSS: `np.nan` has problem with JSON files
 The dataset variables:
 `title`: Title of the game <br>
 `genre`: Genre or genres of the game <br>
-`platform`: Platform of the game, can has be repeated.
-`developer`: Developer's company of the game.
-`publisher`: Publisher's company of the game.
-`fn_usercore_type`: Final/Average User's score of the game type(how accepted the game was by the users who rated it)
-`fn_userscore`: Final/Average User's score of the game.
-`fn_metascore_type`: Final/Average Metacritic's score of the game type(how accepted the game was by the critics who rated it)
-`fn_metascore`: Final/Average Metacritic's score of the game
+`platform`: Platform of the game, can has be repeated. <br>
+`developer`: Developer's company of the game. <br>
+`publisher`: Publisher's company of the game. <br>
+`fn_usercore_type`: Final/Average User's score of the game type(how accepted the game was by the users who rated it) <br>
+`fn_userscore`: Final/Average User's score of the game. <br>
+`fn_metascore_type`: Final/Average Metacritic's score of the game type(how accepted the game was by the critics who rated it) <br>
+`fn_metascore`: Final/Average Metacritic's score of the game <br>
 
