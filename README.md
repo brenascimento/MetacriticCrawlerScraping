@@ -14,7 +14,7 @@ PS: is needed to install all dependencies to work (Numpy and Scrapy) in your mac
 
 PSS: `np.nan` has problem with JSON files
 
-The dataset variables:
+The dataset variables: <br>
 `title`: Title of the game <br>
 `genre`: Genre or genres of the game <br>
 `platform`: Platform of the game, can has be repeated. <br>
