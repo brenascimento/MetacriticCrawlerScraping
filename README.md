@@ -10,7 +10,7 @@ For generate dataset with this spider crawler uses:<br>
 if you want save in other dir, you can do:
 `scrapy crawl metacritic_crawler -o datasets/metacritic-newest-games.json`
 
-PS: is needed to install all dependencies to work (Numpy and Scrapy) in your machine, scrapyvenv virtual environment of this repository, or your own virtualenv <br>
+PS: is needed to install all dependencies to work (Numpy and Scrapy) in your machine or your own virtualenv <br>
 
 PSS: `np.nan` has problem with JSON files
 
