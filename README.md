@@ -1,7 +1,7 @@
 # Metacritic - Crawler and Scraping
 Metacritic Crawler and Scraping using Scrapy Framework in order to create a new dataset and analyze it.
 
-The Metacritic spider crawler analyze news (Dec. 2021) games by userscores filtered website. The Metacritic spider crawler it aims to be versatile and
+The Metacritic spider crawler analyze games by userscores filtered website. The Metacritic spider crawler it aims to be versatile and
 scaleable. 
 
 For generate dataset with this spider crawler uses:<br>
